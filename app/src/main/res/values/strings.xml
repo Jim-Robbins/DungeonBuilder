@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dungeon Maker</string>
+
+    <string name="building">Building Map</string>
+    <string name="creating_dungeon">Creating dungeon</string>
+    <string name="toast_access_error">You must grant file permissions to generate and send your map.</string>
+
+    <string name="email_subject">Your Awesome Dungeon Map</string>
+    <string name="btn_generate">Generate!</string>
+    <string name="rad_send_html_file">Send HTML file</string>
+    <string name="rad_view_on_device"><![CDATA[View on device(B&W)]]></string>
+    <string name="rad_group_title_output">Dungeon Map Output</string>
+    <string name="textview_level">Level:</string>
+    <string name="textview_path_winding">Path Winding:</string>
+    <string name="textview_room_size">Room Size:</string>
+    <string name="textview_room_tries">Room Tries:</string>
+    <string name="textview_x">X</string>
+    <string name="textview_map_size">Map Size:</string>
+</resources>
